@@ -16,7 +16,11 @@
 5. Por medio de la linea señalada del codigo "SecureUrlRead" se puede escoger si da prioridad a mi certificado creado o al de google respectivamente,
    linea comentada para mi certificado, no comentada para el de google
    
-   ![image](https://user-images.githubusercontent.com/71477601/142749583-53c409a1-dad3-4590-a839-7c84b07cb3d3.png)
+
+![image](https://user-images.githubusercontent.com/71477601/142749649-f5fa66e6-07d6-42b1-8afd-aab901568c67.png)
+
+
+
 
 6. Acontinuacion se verifica el resultado del paso anterior viendo su funcionalidad.
 
