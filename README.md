@@ -15,7 +15,20 @@
 
 5. Por medio de la linea señalada del codigo "SecureUrlRead" se puede escoger si da prioridad a mi certificado creado o al de google respectivamente,
    linea comentada para mi certificado, no comentada para el de google
-   ![image](https://user-images.githubusercontent.com/71477601/142749488-af5e5d14-66f6-4e9d-9e26-d0f526b8391b.png)
-6.
+   
+   ![image](https://user-images.githubusercontent.com/71477601/142749583-53c409a1-dad3-4590-a839-7c84b07cb3d3.png)
+
+6. Acontinuacion se verifica el resultado del paso anterior viendo su funcionalidad.
+
+Cuando mi certificado tiene validez.
+
+![image](https://user-images.githubusercontent.com/71477601/142749603-3aefb87a-10c1-479b-8bc4-3c092d682b4f.png)
+
+Cuando el certificado de Google tiene ahora la validez
+
+![image](https://user-images.githubusercontent.com/71477601/142749613-f1398942-a776-4288-ae6a-5412be64acc5.png)
+
+
+Cuando se le da validez a un certificado, el otro no es reconocido como valido en el navegador. 
 
 
